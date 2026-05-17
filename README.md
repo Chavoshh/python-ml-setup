@@ -10,7 +10,7 @@ This project uses [uv](https://docs.astral.sh/uv/) for Python and
 dependency management.
 
 ```bash
-git clone https://github.com/chavoshh/python-ml-setup.git
+git clone https://github.com/Chavoshh/python-ml-setup.git
 cd python-ml-setup
 uv sync
 ```
